@@ -1,5 +1,5 @@
 {
-  "name": "easylog-with-changeboard",
+  "name": "easylog-gpt-final-apikey-version",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
@@ -10,10 +10,5 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest"
-  },
-  "devDependencies": {
-    "tailwindcss": "^3.3.2",
-    "postcss": "^8.4.21",
-    "autoprefixer": "^10.4.14"
   }
 }
